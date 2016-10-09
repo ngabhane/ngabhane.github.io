@@ -20,3 +20,5 @@ There are 3 options for popularity99 and imdb_score
 You can enter comma seperated values for "genre"
 eg., "?genre=Drama"
 	 "?genre=Drama,Crime"
+
+Sample url containing multiple parameters: http://52.66.21.141:8000/movies?name=King%20Kong&director=Merian&popularity99%3E70&genre=adventure&imdb_score%3E7
